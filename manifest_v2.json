@@ -29,6 +29,11 @@
             "icon": "github-logo",
             "title": "GitHub",
             "url": "https://github.com/yzl3014/SimpleRSS"
+        },
+        {
+            "icon": "video",
+            "title": "Bilibili",
+            "url": "https://b23.tv/T2xJCDv"
         }
     ],
     "downloads": {
